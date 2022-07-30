@@ -76,7 +76,7 @@ end
 >>>>>>> 2af6d66 (test)
 
 group :production do
-  gem "pg", "1.3.5"
+  gem "pg"
 end
 <<<<<<< HEAD
 =======
