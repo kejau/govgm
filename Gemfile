@@ -79,7 +79,15 @@ group :production do
   gem "pg"
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4501573 (test)
 =======
 >>>>>>> 2af6d66 (test)
+=======
+
+group :development, :test do
+  #gem "sqlite3"
+  gem "debug", platforms: %i[ mri mingw x64_mingw ]
+end
+>>>>>>> d67bc2e (test)
