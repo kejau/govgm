@@ -71,9 +71,15 @@ group :test do
   gem "webdrivers"
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2af6d66 (test)
 
 group :production do
   gem "pg", "1.3.5"
 end
+<<<<<<< HEAD
 =======
 >>>>>>> 4501573 (test)
+=======
+>>>>>>> 2af6d66 (test)
